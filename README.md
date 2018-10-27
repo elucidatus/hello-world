@@ -1,7 +1,4 @@
 # Hung Nguyen
 
 ## Education
-### Stanford University | Computer Science '20
-
-## Contact
-### See resume
+### Stanford University | Computer Science-Systems '20
