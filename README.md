@@ -5,3 +5,4 @@
 
 ## URLs
 ### https://www.linkedin.com/in/hung-the-nguyen
+### https://hnguyen094.github.io or https://stanford.edu/~hungn2
